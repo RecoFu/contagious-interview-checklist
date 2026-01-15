@@ -4,7 +4,7 @@
 Some “coding tests” or “take‑home assignments” can be scams or malware.  
 有些「面試作業」「技術測驗」，其實是在騙你點連結、登入、或執行壞程式。
 
-This checklist is for junior devs and “小學生程式設計師”.  
+This checklist is for junior devs and “初階程式設計師”.  
 這份檢查表，用最簡單的規則保護你。
 
 > If you don’t understand it, **stop** and ask.  
