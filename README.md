@@ -131,7 +131,7 @@ If you only remember these 3, you already removed many attacks.
 
 ---
 
-## 一頁版總結（給國小程式設計師）
+## 一頁版總結（給初階程式設計師）
 
 - 不急：不要因為對方說「很趕」就亂按。  
 - 不貪：太好的薪水或獎品，多半有問題。  
